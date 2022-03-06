@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning C++
 - :muscle: I can work on a mechanical and software field
-- :de: I'm currently creating my own software to learn german
 - Hobbies : :camera:  :runner: :airplane:
 - :fr: :uk:
 - :email: dalmagathe@gmail.com
