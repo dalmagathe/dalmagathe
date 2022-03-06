@@ -5,7 +5,7 @@
 
 ## Hello 👋
 
-### I'm a young french  engineer who studied mechatronics in engineering school and currently works as a software engineer :)
+### I'm a young french  engineer who studied mechatronics in engineering school and currently works as an embedded systems engineer :)
 
 - 🌱 I’m currently learning C++
 - :muscle: I can work on a mechanical and software field
