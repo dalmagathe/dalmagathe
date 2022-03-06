@@ -1,4 +1,4 @@
-<img align="middle" alt="C++" width="3000px" src="https://user-images.githubusercontent.com/88153083/128330418-461c552c-23c7-4410-9ea3-e1560c5f0c96.JPG" />
+<img width="middle" alt="GitHubImage" src="https://user-images.githubusercontent.com/88153083/156942425-02b139c0-2c71-4b81-b041-276ad1ed2d77.PNG">
 
 <br />
 
