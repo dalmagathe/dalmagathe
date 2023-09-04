@@ -133,4 +133,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmagathe&hide=TeX&layout=compact&theme=transparent" alt="stats" align="right" />
 </a>
 
+<!-- links -->
 [linkedin]: https://www.linkedin.com/in/agathe-dalmazir
