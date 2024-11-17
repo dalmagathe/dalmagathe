@@ -6,8 +6,8 @@
 <h3 align="left">I'm Agathe, a french 🐸 mechatronics engineer. </h3>
 <h2 align="left" id="about-me">👩 About me</h2>
 
-- **Work:** 	🚚 I'm currently working on hydrogen vehicles as a mechatronics engineer.
-- **Hobbies:** 💃 Hula hoop / Jumping rope / 🛫 Travel / 💻 Personnal projects
+- **Work:** 	🚚 I'm currently working on helicopter simulators as a control systems engineer.
+- **Hobbies:** 💃 Hula hoop / Jump rope / 🛫 Travel / 💻 Personnal projects
 - **Language:** 🥖French and 👑 English
 - **Contact:** 📧 dalmagathe@gmail.com
 
@@ -21,6 +21,12 @@
 
 <table>
   <tr>
+  <td align="center" width="96">
+      <a href="#tech">
+        <img src="./img/Matlab.png" width="48" height="48" alt="Matlab/Simulink" />
+      </a>
+      <br>Matlab/Simulink
+    </td>
     <td align="center" width="96">
       <a href="#tech">
         <img src="./img/Cpp.png" width="48" height="48" alt="Cpp" />
@@ -117,6 +123,12 @@
         <img src="./img/Qt.png" height="48" alt="Qt" />
       </a>
       <br>Qt
+    </td>
+        <td align="center" width="96">
+      <a href="#tech">
+        <img src="./img/Matlab.png" width="48" height="48" alt="Matlab/Simulink" />
+      </a>
+      <br>Matlab/Simulink
     </td>
   </tr>
 </table>
