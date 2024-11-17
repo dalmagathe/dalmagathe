@@ -3,11 +3,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F76000&center=true&vCenter=true&width=435&lines=Hello+everyone!;Welcome+to+my+Github+%3AP" /></a>
 </p>
 
-<h3 align="left">I'm Agathe, a french 🐸 mechatronics engineer currently working in Sweden </h3>
+<h3 align="left">I'm Agathe, a french 🐸 mechatronics engineer. </h3>
 <h2 align="left" id="about-me">👩 About me</h2>
 
 - **Work:** 	🚚 I'm currently working on hydrogen vehicles as a mechatronics engineer.
-- **Hobbies:** 💃 Hula hoop / 🛫 Travel / 💻 Personnal projects
+- **Hobbies:** 💃 Hula hoop / Jumping rope / 🛫 Travel / 💻 Personnal projects
 - **Language:** 🥖French and 👑 English
 - **Contact:** 📧 dalmagathe@gmail.com
 
