@@ -59,9 +59,9 @@
     </td>
     <td align="center"  width="150">
       <a href="#tech">
-        <img src="./img/Ros.png" width="150" height="48" alt="ROS" />
+        <img src="./img/Ros.png" width="150" height="48" alt="ROS2" />
       </a>
-      <br>ROS
+      <br>ROS2
     </td>
   </tr>
 </table>
@@ -140,12 +140,6 @@
 </table>
 
 <br />
-
-<h2 align="left" id="stats">🔥 My Github information</h2>
-
-<a href="#stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmagathe&hide=TeX&layout=compact&theme=transparent" alt="stats" align="left" />
-</a>
 
 <!-- links -->
 [linkedin]: https://www.linkedin.com/in/agathe-dalmazir
