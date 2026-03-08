@@ -57,6 +57,12 @@
       </a>
       <br>Linux
     </td>
+    <td align="center"  width="150">
+      <a href="#tech">
+        <img src="./img/Ros.png" width="150" height="48" alt="ROS" />
+      </a>
+      <br>ROS
+    </td>
   </tr>
 </table>
 
